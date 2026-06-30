@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file alias="stays.png">icons/stays.png</file>
+        <file alias="icd.png">icons/icd.png</file>
+        <file alias="overview.png">icons/overview.png</file>
+    </qresource>
+    <qresource prefix="/data">
+        <file alias="stays.json">stays.json</file>
+        <file alias="icdCodes.txt">icdCodes.txt</file>
+    </qresource>
+</RCC>
